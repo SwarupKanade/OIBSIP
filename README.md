@@ -21,7 +21,7 @@ The second task is to implement an ATM (Automated Teller Machine) simulation. Th
 https://github.com/SwarupKanade/OIBSIP/assets/66130020/b7aeb6a1-7600-4617-8eda-7537c78fdede
 
 
-## Task 1: Number Guessing Game
+## Task 2: Number Guessing Game
 
 The first task is to implement a number guessing game. The game should generate a random number between a specified range and prompt the user to guess the number. The user should be given attempts to guess the correct number. The game should provide feedback to the user after each guess, indicating whether the guess was too high or too low. If the user guesses the correct number they win the game.
 
